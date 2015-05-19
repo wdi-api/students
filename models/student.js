@@ -21,6 +21,6 @@ module.exports = {
 	}
       }
     }
-    return found
+    return _.uniq(found)
   }
 }
