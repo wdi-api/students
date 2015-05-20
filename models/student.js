@@ -1,6 +1,10 @@
 var students = require("../students")
 var _ = require("underscore")
+
 module.exports = {
+  find: function( id ){
+    return students[id] 
+  },
   all: function(){
     return _.map(students, function(student, index){
       student.id = index 

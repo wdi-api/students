@@ -10,6 +10,11 @@ app.get("/students/?", function( req, res ){
   res.send( results ) 
 })
 
+app.get("/students/:id", function( req, res ){
+  var result = student.find(req.params.id)
+  res.send( result ) 
+})
+
 app.listen(2370, function( req, res ){
-  console.log("app listening on port 3000")
+  console.log("app listening on port 2370")
 })
