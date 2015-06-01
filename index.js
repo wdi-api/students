@@ -7,7 +7,7 @@ app.get("/students/?", function( req, res ){
   if( req.query.search ){
     results = student.search(req.query.search)
   }
-  res.send( results ) 
+  res.jsonp( results ) 
 })
 
 app.get("/students/:id", function( req, res ){
