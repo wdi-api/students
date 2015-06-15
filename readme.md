@@ -1,6 +1,6 @@
 # Students API
 
-This read-only API is deployed at http://wdi-api.jshawl.com/students
+This read-only API is deployed at http://api.wdidc.org/students
 
 ## `get /students`
 
