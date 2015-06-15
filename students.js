@@ -1,1 +1,292 @@
-module.exports = [{"name":"Alif C","github":"ifthesim","id":0,"github_id":10103153},{"name":"Allyson L","github":"uhhlittle","id":1,"github_id":11261151},{"name":"Biboy P","github":"opbiboy","id":2,"github_id":11449053},{"name":"Brad F","github":"btf5048","id":3,"github_id":10234758},{"name":"Chad S","github":"chadxsmith","id":4,"github_id":8680737},{"name":"Jared Y","github":"JYamauchi","id":5,"github_id":10453194},{"name":"John M","github":"tsetoung","id":6,"github_id":11231038},{"name":"Julia R","github":"julia-rose","id":7,"github_id":8743121},{"name":"Karen O","github":"Karen-O","id":8,"github_id":10550979},{"name":"Keith K","github":"keithknox","id":9,"github_id":8493066},{"name":"Lindsey D","github":"lmdragun","id":10,"github_id":11346889},{"name":"Matt W","github":"KMG112","id":11,"github_id":11448912},{"name":"Nabil H","github":"nhashmi","id":12,"github_id":9420529},{"name":"Nick B","github":"nbumbarger","id":13,"github_id":9471488},{"name":"Noah L","github":"nclevine","id":14,"github_id":10224235},{"name":"Parmeet S","github":"pmander90","id":15,"github_id":11496172},{"name":"Phillip W","github":"philw214","id":16,"github_id":11447889},{"name":"Preston S","github":"presto2116","id":17,"github_id":9746108},{"name":"Rodger A","github":"rodja32","id":18,"github_id":10605781},{"name":"Sarah G","github":"greenes","id":19,"github_id":10904722},{"name":"Tyler B","github":"htylerbrooks","id":20,"github_id":10837874},{"name":"Zachary F","github":"zakkman","id":21,"github_id":4991553},{"name":"Aaron P","github":"APARK87","id":22,"github_id":10388170},{"name":"Adrian M","github":"amaseda","id":23,"github_id":3519147},{"name":"Ali T","github":"AliTopal89","id":24,"github_id":9599485},{"name":"Ammie M","github":"Vaalys","id":25,"github_id":7737842},{"name":"Brittany H","github":"britbrith4","id":26,"github_id":11509416},{"name":"Damon E","github":"damonmd","id":27,"github_id":11300845},{"name":"Diana J","github":"dmjurg","id":28,"github_id":9677598},{"name":"Don M","github":"dmc2015","id":29,"github_id":7463796},{"name":"Eltahir E","github":"theeltahir","id":30,"github_id":10585806},{"name":"Enoch S","github":"seekpeace","id":31,"github_id":6711647},{"name":"Gwen M","github":"Tuzibun","id":32,"github_id":11448967},{"name":"Haleigh H","github":"hharper","id":33,"github_id":11449033},{"name":"Isatu C","github":"freetown5","id":34,"github_id":7563427},{"name":"Janice M","github":"janicemin","id":35,"github_id":11448897},{"name":"Jocelyn J","github":"luminousbeam","id":36,"github_id":9014849},{"name":"Kevin B","github":"hellostella","id":37,"github_id":11246069},{"name":"Michael K","github":"michaelkendall","id":38,"github_id":11488796},{"name":"Nicholas S","github":"smallnic","id":39,"github_id":10606769},{"name":"Ryan K","github":"ryankeiper","id":40,"github_id":10121378},{"name":"Tamara P","github":"tpeters0","id":41,"github_id":11197015},{"name":"Toby S","github":"mugshepherd","id":42,"github_id":7784700}]
+module.exports = [
+  {
+    "name": "Isabella Brookes",
+    "email": "brookes.isabella@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Ksenia Zherdeva",
+    "email": "kzherdeva@ucdavis.edu",
+    "github_user_id": ""
+  },
+  {
+    "name": "Leigh Varley",
+    "email": "leighvarley@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Malissa Romero",
+    "email": "romero.malissa@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Stephen Gheysens",
+    "email": "segheysens@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Taewan Kim",
+    "email": "ktw1222@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Becky Beauchamp",
+    "email": "beckybeauchamp1@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Chrystal Banks",
+    "email": "chrystal.banks1@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "David Waiter",
+    "email": "david.gregory.waiter@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Edward Park",
+    "email": "parkes.edward@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Erica Andersen",
+    "email": "andersenek@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Erik Anderson",
+    "email": "itserikanderson@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Joseph Kahle",
+    "email": "jrkahle@hotmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Mike Dulik",
+    "email": "mikedulik@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Nayana Davis",
+    "email": "nayana487@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Omari Mayers-Walker",
+    "email": "driver_omw@mac.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Robert Benjamin",
+    "email": "i.am.robert.benjamin@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Silvia Brown",
+    "email": "siltastic@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Walter Augustine",
+    "email": "walter.augustine10@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Yvonne Wang",
+    "email": "yvonnewang22@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Joseph Glatman Zaretsky",
+    "email": "jglatmanzaretsky@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Amruta Ghate",
+    "email": "amruta.ghate@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Josh Berryhill",
+    "email": "jberryh5@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Arash Shahry",
+    "email": "arash_cello@yahoo.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Erica Irving",
+    "email": "contact.eirving@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Jeremy Koulish",
+    "email": "jkoulish@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "John Master",
+    "email": "john.s.master@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Kevin Cole Jr",
+    "email": "kevincolejr@outlook.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Lisa Scott",
+    "email": "lscottcook@hotmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Peter Cutler",
+    "email": "petergcutler@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Preston Davies",
+    "email": "pdavies88@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Rachel Warren",
+    "email": "raelwa@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Cheikh Ndiongue",
+    "email": "cmndiongue@yahoo.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Matthew Curtis",
+    "email": "curtismn87@yahoo.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Matthew Ficke",
+    "email": "matthew.ficke@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Mostafa Habib",
+    "email": "mostafashabib@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Michael Lindon",
+    "email": "mlindon9@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Svitlana Kushnir",
+    "email": "svitlanakushnir94@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Cameron Fry",
+    "email": "cameronfry11@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Jared Arkin",
+    "email": "arkinjb@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Nehemie Sejour",
+    "email": "mllenehemie@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Nicole Townsend",
+    "email": "nicmtowns@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Jeff Jones",
+    "email": "jeff.jones1@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Christine Lovett",
+    "email": "clovett07@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Karl Donus",
+    "email": "karldonus@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Kristin Greenslit",
+    "email": "creativekg@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Lon Phelps",
+    "email": "puzzleboks@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Melissa Steffan",
+    "email": "msteffan2012@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Rosel Padilla",
+    "email": "roselpadilla.mail@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Thomas Beach",
+    "email": "tbeach2k@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Sana Javed",
+    "email": "ramirez.javed@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Adrian Shepelavey",
+    "email": "adrianshepelavey@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Alexander Bannon",
+    "email": "alexbannon@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Justin Price",
+    "email": "iamjustinprice@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Laura Nawrocki",
+    "email": "lwn2@aol.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Marc Bressler",
+    "email": "marcbressler@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Paul Doulatshahi",
+    "email": "paul.doulatshahi@gmail.com",
+    "github_user_id": ""
+  },
+  {
+    "name": "Samuel Key",
+    "email": "s.key08@gmail.com",
+    "github_user_id": ""
+  }
+]
