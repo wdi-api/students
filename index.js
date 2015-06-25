@@ -2,7 +2,7 @@ var express = require("express")
 var app = express()
 var student = require("./models/student")
 
-app.get("/students/?", function( req, res ){
+app.get("/students/?(.json)?", function( req, res ){
   var results = student.all()
   if( req.query.search ){
     results = student.search(req.query.search)
