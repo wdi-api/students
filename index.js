@@ -12,7 +12,7 @@ app.get("/students/?", function( req, res ){
 
 app.get("/students/:id", function( req, res ){
   var result = student.find(req.params.id)
-  res.send( result ) 
+  res.jsonp( result ) 
 })
 
 app.listen(2370, function( req, res ){

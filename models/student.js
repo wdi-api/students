@@ -3,13 +3,14 @@ var _ = require("underscore")
 
 module.exports = {
   find: function( id ){
-    return students[id] 
+    for(var i = 0; i < students.length; i++ ){
+      if(students[i].github_user_id == id) 
+	return students[i]
+    }
+    return null
   },
   all: function(){
-    return _.map(students, function(student, index){
-      student.id = index 
-      return student
-    })
+    return students
   },
   search: function( query ){
     var regex = new RegExp( query, "gi" )
