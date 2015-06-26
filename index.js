@@ -6,6 +6,12 @@ app.get("/", function( req, res){
   res.redirect("/students");
 })
 
+// List students which are missing some information
+app.get("/students/missing_info", function( req, res ){
+  var results = student.missing_information()
+  res.jsonp( results )
+})
+
 app.get("/students/?(.json)?", function( req, res ){
   var results = student.all()
   if( req.query.search ){
