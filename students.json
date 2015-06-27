@@ -357,6 +357,10 @@
         "name": "Ksenia Zherdeva-Coulter"
     },
     {
-      "foo" : "bar"
+        "avatar": "https://avatars.githubusercontent.com/u/12025195?v=3",
+        "email": "kzherdeva@ucdavis.edu",
+        "github_user_id": 123,
+        "github_username": "asdf",
+        "name": "Robz"
     }
 ]
