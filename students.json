@@ -4,6 +4,7 @@
         "email": "andersenek@gmail.com",
         "github_user_id": 11844601,
         "github_username": "andersenek",
+        "squad": "Ada",
         "name": "Erica Andersen"
     },
     {
@@ -11,6 +12,7 @@
         "email": "itserikanderson@gmail.com",
         "github_user_id": 12280803,
         "github_username": "phantomhaircuts",
+        "squad": "Ada",
         "name": "Erik Anderson"
     },
     {
@@ -18,6 +20,7 @@
         "email": "arkinjb@gmail.com",
         "github_user_id": 12718947,
         "github_username": "arkinjb",
+        "squad": "Ada",
         "name": "Jared Arkin"
     },
     {
@@ -25,12 +28,14 @@
         "email": "walter.augustine10@gmail.com",
         "github_user_id": 10503240,
         "github_username": "Walter-0",
+        "squad": "Ada",
         "name": "Walter Augustine"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/12821988?v=3",
         "email": "alexbannon@gmail.com",
         "github_user_id": 12821988,
+        "squad": "Ada",
         "github_username": "alexbannon",
         "name": "Alex Bannon"
     },
@@ -38,6 +43,7 @@
         "avatar": "https://avatars.githubusercontent.com/u/10157094?v=3",
         "email": "tbeach2k@gmail.com",
         "github_user_id": 10157094,
+        "squad": "Ada",
         "github_username": "tomBeach",
         "name": "Tom Beach"
     },
@@ -45,12 +51,14 @@
         "avatar": "https://avatars.githubusercontent.com/u/8145721?v=3",
         "email": "i.am.robert.benjamin@gmail.com",
         "github_user_id": 8145721,
+        "squad": "Ada",
         "github_username": "robertbenjamin",
         "name": "Robert Benjamin"
     },
     {
         "avatar": "https://avatars3.githubusercontent.com/u/12928252?v=3&s=460",
         "email": "",
+        "squad": "Ada",
         "github_user_id": 12928252,
         "github_username": "isabellabrookes",
         "name": "Isabella Brookes"
@@ -59,6 +67,7 @@
         "avatar": "https://avatars.githubusercontent.com/u/10377524?v=3",
         "email": "siltastic@gmail.com",
         "github_user_id": 10377524,
+        "squad": "Ada",
         "github_username": "siltastic",
         "name": "Silvia Brown"
     },
@@ -67,6 +76,7 @@
         "email": "kevnco@gmail.com",
         "github_user_id": 5041398,
         "github_username": "KevCole",
+        "squad": "Bash",
         "name": "Kevin Cole Jr"
     },
     {
@@ -74,6 +84,7 @@
         "email": "Curtismn87@yahoo.com",
         "github_user_id": 12704687,
         "github_username": "Curtismn87",
+        "squad": "Bash",
         "name": "Matt Curtis"
     },
     {
@@ -81,6 +92,7 @@
         "email": "petergcutler@gmail.com",
         "github_user_id": 11398019,
         "github_username": "petergcutler",
+        "squad": "Bash",
         "name": "Peter Cutler"
     },
     {
@@ -88,6 +100,7 @@
         "email": "pdavies88@gmail.com",
         "github_user_id": 11822533,
         "github_username": "pdavies88",
+        "squad": "Bash",
         "name": "Preston Davies"
     },
     {
@@ -95,6 +108,7 @@
         "email": "nayana487@gmail.com",
         "github_user_id": 6817544,
         "github_username": "nayana487",
+        "squad": "Bash",
         "name": "Nayana Davis"
     },
     {
@@ -102,6 +116,7 @@
         "email": "karldonus@gmail.com",
         "github_user_id": 12393161,
         "github_username": "karldonus",
+        "squad": "Bash",
         "name": "Karl Donus"
     },
     {
@@ -109,6 +124,7 @@
         "email": null,
         "github_user_id": null,
         "github_username": null,
+        "squad": "Bash",
         "name": "Paul Doulatshahi"
     },
     {
@@ -116,6 +132,7 @@
         "email": "mikedulik@gmail.com",
         "github_user_id": 12620359,
         "github_username": "MikeDulik",
+        "squad": "Bash",
         "name": "Mike Dulik"
     },
     {
@@ -123,6 +140,7 @@
         "email": "englep10@gmail.com",
         "github_user_id": 8524298,
         "github_username": "englep10",
+        "squad": "C",
         "name": "Philip Engles"
     },
     {
@@ -130,6 +148,7 @@
         "email": "matthew.ficke@gmail.com",
         "github_user_id": 9308599,
         "github_username": "mattficke",
+        "squad": "C",
         "name": "Matt Ficke"
     },
     {
@@ -137,6 +156,7 @@
         "email": null,
         "github_user_id": null,
         "github_username": null,
+        "squad": "C",
         "name": "Cameron Fry"
     },
     {
@@ -144,6 +164,7 @@
         "email": "amruta.ghate@gmail.com",
         "github_user_id": 8423627,
         "github_username": "aag6z",
+        "squad": "C",
         "name": "Amruta Ghate"
     },
     {
@@ -151,6 +172,7 @@
         "email": "segheysens@gmail.com",
         "github_user_id": 3592134,
         "github_username": "segheysens",
+        "squad": "C",
         "name": "Stephen Gheysens"
     },
     {
@@ -158,6 +180,7 @@
         "email": "kristingreenslit@users.noreply.github.com",
         "github_user_id": 5890436,
         "github_username": "kristingreenslit",
+        "squad": "C",
         "name": "Kristin Greenslit"
     },
     {
@@ -165,6 +188,7 @@
         "email": "mostafashabib@gmail.com",
         "github_user_id": 12723877,
         "github_username": "M00staff",
+        "squad": "C",
         "name": "Mostafa Habib"
     },
     {
@@ -172,6 +196,7 @@
         "email": "contact.eirving@gmail.com",
         "github_user_id": 12503383,
         "github_username": "ebirving",
+        "squad": "C",
         "name": "Erica Irving"
     },
     {
@@ -179,6 +204,7 @@
         "email": "jeff.jones1@gmail.com",
         "github_user_id": 11494386,
         "github_username": "jeffjones89",
+        "squad": "Dart",
         "name": "Jeff Jones"
     },
     {
@@ -186,13 +212,15 @@
         "email": "jrkahle@hotmail.com",
         "github_user_id": 10525216,
         "github_username": "Ryan-321",
-        "name": "J Kahle"
+        "squad": "Dart",
+        "name": "Joseph Kahle"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/11445329?v=3",
         "email": "s.key08@gmail.com",
         "github_user_id": 11445329,
         "github_username": "skey08",
+        "squad": "Dart",
         "name": "Samuel Key"
     },
     {
@@ -200,6 +228,7 @@
         "email": "ktw1222@gmail.com",
         "github_user_id": 11373012,
         "github_username": "ktw1222",
+        "squad": "Dart",
         "name": "Taewan Kim"
     },
     {
@@ -207,6 +236,7 @@
         "email": "jkoulman@gmail.com",
         "github_user_id": 12779671,
         "github_username": "jkoul",
+        "squad": "Dart",
         "name": "Jeremy Koulish"
     },
     {
@@ -214,6 +244,7 @@
         "email": "musiconstellation@gmail.com",
         "github_user_id": 11658296,
         "github_username": "lanak1301",
+        "squad": "Dart",
         "name": "Lana Kushnir"
     },
     {
@@ -221,6 +252,7 @@
         "email": "clovett07@gmail.com",
         "github_user_id": 12041606,
         "github_username": "christinelovett",
+        "squad": "Dart",
         "name": "Christine Lovett"
     },
     {
@@ -228,20 +260,15 @@
         "email": "john.s.master@gmail.com",
         "github_user_id": 7882341,
         "github_username": "jmas13",
+        "squad": "Dart",
         "name": "John Master"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/10659084?v=3",
-        "email": "omari@fastmail.fm",
-        "github_user_id": 10659084,
-        "github_username": "omarimayerswalker",
-        "name": "Omari Mayers-Walker"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/11313287?v=3",
         "email": "moses.adg@gmail.com",
         "github_user_id": 11313287,
         "github_username": "mosesadg",
+        "squad": "Dart",
         "name": "Anand Moses"
     },
     {
@@ -249,6 +276,7 @@
         "email": "lwn2@aol.com",
         "github_user_id": 13022403,
         "github_username": "LauraWN",
+        "squad": "Elixir",
         "name": "Laura Nawrocki"
     },
     {
@@ -256,6 +284,7 @@
         "email": "cmndiongue@yahoo.com",
         "github_user_id": 12532629,
         "github_username": "Thesheik",
+        "squad": "Elixir",
         "name": "Cheikh Ndiongue"
     },
     {
@@ -263,6 +292,7 @@
         "email": "nolds9@yahoo.com",
         "github_user_id": 10698044,
         "github_username": "nolds9",
+        "squad": "Elixir",
         "name": "Nicholas Olds"
     },
     {
@@ -270,6 +300,7 @@
         "email": "roselpadilla.mail@gmail.com",
         "github_user_id": 11068746,
         "github_username": "RoselPadilla",
+        "squad": "Elixir",
         "name": "Rosel Padilla"
     },
     {
@@ -277,6 +308,7 @@
         "email": "parkes.edward@gmail.com",
         "github_user_id": 7883907,
         "github_username": "Oldmaneddie",
+        "squad": "Elixir",
         "name": "Edward Park"
     },
     {
@@ -284,6 +316,7 @@
         "email": "puzzleboks@gmail.com",
         "github_user_id": 2986560,
         "github_username": "puzzleboks",
+        "squad": "Elixir",
         "name": "Lon Phelps"
     },
     {
@@ -291,6 +324,7 @@
         "email": "iamjustinprice@gmail.com",
         "github_user_id": 13008720,
         "github_username": "iamjustinprice",
+        "squad": "Elixir",
         "name": "Justin Price"
     },
     {
@@ -298,6 +332,7 @@
         "email": "romero.malissa@gmail.com",
         "github_user_id": 11203264,
         "github_username": "malissaromero",
+        "squad": "Elixir",
         "name": "Malissa Cruz Romero"
     },
     {
@@ -305,6 +340,7 @@
         "email": "lscottcook@hotmail.com",
         "github_user_id": 10911493,
         "github_username": "lscottcook",
+        "squad": "Fortran",
         "name": "Lisa Scott"
     },
     {
@@ -312,6 +348,7 @@
         "email": "arash.shahry@gmail.com",
         "github_user_id": 10640214,
         "github_username": "ashahry",
+        "squad": "Fortran",
         "name": "Arash Shahry"
     },
     {
@@ -319,6 +356,7 @@
         "email": "adrianshepelavey@gmail.com",
         "github_user_id": 12960587,
         "github_username": "adrianshep",
+        "squad": "Fortran",
         "name": "Adrian Shepelavey"
     },
     {
@@ -326,6 +364,7 @@
         "email": "msteffan2012@gmail.com",
         "github_user_id": 7719096,
         "github_username": "msteffan",
+        "squad": "Fortran",
         "name": "Melissa Steffan"
     },
     {
@@ -333,18 +372,29 @@
         "email": "leighvarley@gmail.com",
         "github_user_id": 12813818,
         "github_username": "leighvarley",
+        "squad": "Fortran",
         "name": "Leigh Varley"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10659084?v=3",
+        "email": "omari@fastmail.fm",
+        "github_user_id": 10659084,
+        "github_username": "omarimayerswalker",
+        "squad": "Fortran",
+        "name": "Omari Mayers-Walker"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/10837726?v=3",
         "email": "yvonnewang22@gmail.com",
         "github_user_id": 10837726,
+        "squad": "Fortran",
         "github_username": "YvonneWang",
         "name": "Yvonne Wang"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/10967783?v=3",
         "email": "raelwa@gmail.com",
+        "squad": "Fortran",
         "github_user_id": 10967783,
         "github_username": "rewarren",
         "name": "Rachel Warren"
@@ -352,6 +402,7 @@
     {
         "avatar": "https://avatars.githubusercontent.com/u/12025195?v=3",
         "email": "kzherdeva@ucdavis.edu",
+        "squad": "Fortran",
         "github_user_id": 12025195,
         "github_username": "kscoulter",
         "name": "Ksenia Zherdeva-Coulter"
