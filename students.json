@@ -120,10 +120,10 @@
         "name": "Karl Donus"
     },
     {
-        "avatar": null,
-        "email": null,
-        "github_user_id": null,
-        "github_username": null,
+        "avatar": "https://avatars.githubusercontent.com/u/13021732?v=3",
+        "email": "paul.doulatshahi@gmail.com",
+        "github_user_id": 13021732,
+        "github_username": "pdoulatshahi",
         "squad": "Bash",
         "name": "Paul Doulatshahi"
     },
