@@ -5,6 +5,7 @@ class StudentsController < ApplicationController
   # GET /students.json
   def index
     @students = Student.all
+    render json: @students, callback: params[:callback]
   end
 
   # GET /students/1
